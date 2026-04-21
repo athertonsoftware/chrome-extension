@@ -1,0 +1,9 @@
+.copy-em-text {
+  cursor: pointer;
+  text-decoration: underline solid;
+  font-weight: bold;
+}
+
+.copy-em-text:hover {
+  background-color: rgba(255, 200, 0, 0.3);
+}
